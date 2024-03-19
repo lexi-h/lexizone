@@ -6,7 +6,7 @@ theme = "anatole"
 [params]
 author = "Lexi Hattaway"
 description = "enter the zone."
-profilePicture = "static/images/its_me_250.jpg"
+profilePicture = "images/its_me_250.jpg"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
