@@ -12,18 +12,34 @@ draft: false
 ---
 
 ## ABOUT
-
 Hi! I'm Lexi. I have a passion for technology, learning new things, working hard and solving problems. My experience as a server has honed my soft skills. I'm eager to jump into the tech industry with my unique perspective.
 
 ---
 
-## EDUCATION
-
-CompTIA A+ Certified
+## CERTIFICATIONS
+### CompTIA A+ Certified
 - Feb 2024
 
-Columbia College - Columbia, MO
-- Aug 2016 - Dec 2019
+---
+
+## WORK EXPERIENCE
+### Server // Sierra Grill
+- **Mar 2023 - Current**
+- Started as a hostess, learned quick and trained to be a server and bartender
+- People skills!!!
+- Maintaining an orderly and clean environment
+- Multitasking
+### Salesforce Development Intern // ProCore Resource Group
+- **May 2019 - Aug 2019**
+- Automated custom contract generation and email templates for three clients
+- Initialized dozens of Salesforce instances
+- Wrote volleyball tournament management software
+
+---
+
+## EDUCATION
+### Columbia College - Columbia, MO
+- **Aug 2016 - Dec 2019**
 - Computer Science Major, Math Minor, completed three years
 - 3.68 GPA, Dean’s List, Academic Scholarships
 - Scholarship for eSports
@@ -37,28 +53,10 @@ Columbia College - Columbia, MO
         - Introduction to Git 
         - Make a Website
 
--=-=-=-=-
-
-## WORK EXPERIENCE
-
-Server // Sierra Grill
-- MAR 2023 - CURRENT
-- Started as a hostess, learned quick and trained to be a server and bartender
-- People skills!!!
-- Maintaining an orderly and clean environment
-- Multitasking
-
-Salesforce Development Intern // ProCore Resource Group
-- May 2019 - Aug 2019
-- Automated custom contract generation and email templates for three clients
-- Initialized dozens of Salesforce instances
-- Wrote volleyball tournament management software
-
--=-=-=-=-
+---
 
 ## SKILLS
-
-Programming Languages
+### Programming Languages
 - Python
 - C++
 - Java
@@ -66,14 +64,12 @@ Programming Languages
 - CSS
 - SQL
 - Apex
-
-Technology
+### Technology
 - Linux
 - Git
 - Salesforce
 - Microsoft Office
-
-Soft Skills
+### Soft Skills
 - Swift learner
 - Precise communication
 - Servant Leader

@@ -1,5 +1,14 @@
 baseURL = "https://lexi.zone"
 languageCode = "en-us"
-title = "THE LEXI ZONE"
+title = "L E X I"
 theme = "anatole"
 
+[params]
+author = "Lexi Hattaway"
+description = "enter the zone."
+profilePicture = "static/images/its_me_250.jpg"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:contact@lexi.zone"
