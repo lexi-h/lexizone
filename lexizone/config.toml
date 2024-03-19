@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://lexi.zone"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "cupper-hugo-theme"
+title = "THE LEXI ZONE"
+theme = "risotto"
 
