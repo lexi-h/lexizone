@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>THE LEXI ZONE</title>
+    <title>the lexi zone on THE LEXI ZONE</title>
     <link>https://lexi.zone/</link>
-    <description>Recent content on THE LEXI ZONE</description>
+    <description>Recent content in the lexi zone on THE LEXI ZONE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lexi.zone/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 23:16:09 -0500</lastBuildDate><atom:link href="https://lexi.zone/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>the lexi zone</title>
-      <link>https://lexi.zone/</link>
-      <pubDate>Mon, 18 Mar 2024 23:16:09 -0500</pubDate>
+      <title>About</title>
+      <link>https://lexi.zone/about/</link>
+      <pubDate>Mon, 18 Mar 2024 22:03:17 -0500</pubDate>
       
-      <guid>https://lexi.zone/</guid>
-      <description>Hello! Welcome to my website.
-this is a test.
-#my name is lexi.</description>
+      <guid>https://lexi.zone/about/</guid>
+      <description>Here is some content. I am very cool.
+ list two   dictionary defined   asdf arst  </description>
     </item>
     
   </channel>
