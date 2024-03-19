@@ -13,11 +13,13 @@
       <pubDate>Mon, 18 Mar 2024 23:33:32 -0500</pubDate>
       
       <guid>https://lexi.zone/resume/</guid>
-      <description>Lexi Hattaway Lenexa, KS contact@lexi.zone -=-=-=-=-
+      
+        <description>Lexi Hattaway Lenexa, KS contact@lexi.zone -=-=-=-=-
 ABOUT Hi! I&amp;rsquo;m Lexi. I have a passion for technology, learning new things, working hard and solving problems. My experience as a server has honed my soft skills. I&amp;rsquo;m eager to jump into the tech industry with my unique perspective.
 -=-=-=-=-
 EDUCATION CompTIA A+ Certified - Feb 2024
 Columbia College - Columbia, MO - Aug 2016 - Dec 2019 - Computer Science Major, Math Minor, completed three years - 3.</description>
+      
     </item>
     
     <item>
@@ -26,8 +28,10 @@ Columbia College - Columbia, MO - Aug 2016 - Dec 2019 - Computer Science Major, 
       <pubDate>Mon, 18 Mar 2024 22:03:17 -0500</pubDate>
       
       <guid>https://lexi.zone/about/</guid>
-      <description>Here is some content. I am very cool.
+      
+        <description>Here is some content. I am very cool.
  list two   dictionary defined   asdf arst  </description>
+      
     </item>
     
   </channel>
