@@ -4,3 +4,6 @@
 [submodule "lexizone/themes/risotto"]
 	path = lexizone/themes/risotto
 	url = https://github.com/joeroe/risotto
+[submodule "lexizone/themes/anatole"]
+	path = lexizone/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
