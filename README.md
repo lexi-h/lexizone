@@ -1,4 +1,4 @@
 # lexizone
-lexi.zone website
+https://lexi.zone
 
 Welcome to my crummy website ^-^
